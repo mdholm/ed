@@ -1,11 +1,11 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
+title:               MDHOLM.
+tagline:             'Tristram Shandy Bons Mots'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://oncomouse.github.io'
-baseurl:             '/ed'
+url:                 'http://mdholm.github.io'
+baseurl:             '/mdholm'
 
 # About/contact
 author:

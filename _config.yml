@@ -1,9 +1,9 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               MDHOLM
+title:               'mdholm'
 tagline:             'Tristram Shandy Bons Mots'
-description:         'a dialogue of the dead excerpt'
+description:         'A dialogue of the dead excerpt'
 url:                 'http://mdholm.github.io'
 baseurl:             '/mdholm'
 

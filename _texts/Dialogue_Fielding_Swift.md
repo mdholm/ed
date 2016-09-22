@@ -35,9 +35,9 @@ of Don Quixote.
 
 Fielding.  
 TRISTRAM Shandy I guess you mean——  
-have been just hearing of it, from a &#017;oul  
+have been just hearing of it, from a ſoul  
 which arrived about two hours——he tells  
-me that the author is care&#017;&#017;ed by people of  
+me that the author is careſſed by people of  
 the first fashion——who strive one with each  
 other, for the honour of filling his belly and  
 his pockets——and, withal, that his works  
@@ -47,41 +47,41 @@ you or have written;
 Swift.  
 You know I had always a contemptible  
 opinion of those human brutes, and this very  
-circumstance you mention is sufficient to ju&#017;  
+circumstance you mention is sufficient to juſ  
 tify my character of the yahoo——for nothing   
 but a yahoo, both in taste and principles, could   
 endure, much less admire such a Paltry per-  
 formance.  
 
 Fielding.   
-AT lea&#017;t, it is a proof to what a low ebb  
-the British genius is reduced; for it is a &#017;ign  
+AT lea&ſt, it is a proof to what a low ebb  
+the British genius is reduced; for it is aſign  
 K 2. people  
 
 ( 68 )  
 
 people are poor indeed, when they make a  
-&#017;hew with farthings——but it seems you have   
+ſhew with farthings——but it seems you have   
 read the book then.  
 
 Swift.  
 I just run it over, but there was such  
 pulling among the curious to get it out of   
-my hands——and Mercury &#017;ays it is the same  
+my hands——and Mercury ſays it is the same  
 thing above stairs too——where he should ne-  
 ver have got an opportunity to steal it, if   
 he had not watched his time, when one of  
-the mo&#017;t &#017;ensible men in the kingdom, and  
-one of the greates&#017;t authors——had fallen a  
-&#017;leep over the fir&#017;t volume, &#017;o flipt that out  
+the moſt ſensible men in the kingdom, and  
+one of the greatesſt authors——had fallen a  
+ſleep over the firſt volume, ſo flipt that out  
 of his hand, and the other from the table  
-by him ; but I &#017;hall be &#017;urprized if we have  
+by him ; but I ſhall be ſurprized if we have  
 them not in plenty before this day twelve-  
-month, for I think Tri&#017;ram Shandy mu&#017;t   
+month, for I think Triſram Shandy muſt   
 be dead and buried by that time.  
 
 Fielding.  
-WELL, but prythee Swift, give us &#017;ome   
+WELL, but prythee Swift, give us ſome   
 account of the work.  
 
 Swift.  
@@ -90,8 +90,8 @@ Swift.
 Swift.  
 In a few words——it is a hotch potch of   
 technical terms——broken sentencesb————trite  
-&#017;atir-—obscenity——low buffoonery, without  
-wit——humour——or de&#017;ign.  
+ſatir-—obscenity——low buffoonery, without  
+wit——humour——or deſign.  
 
 Fielding.  
 I beg pardon for interrupting you——but that   
@@ -101,13 +101,13 @@ no humour in the book.
 
 Swift.  
 WOULD you think there was humour——  
-if  a blackguard in the &#017;treet &#017;hould pull  
+if  a blackguard in the ſtreet ſhould pull  
 down his breeches and shew you his dirty——  
-If you would, then there is humour in Tris&#017;-  
+If you would, then there is humour in Trisſ-  
 tram Shandy.  
 
 Fielding.  
-How the devil can the town be &#017;o absurd  
+How the devil can the town be ſo absurd  
 then, as to put this man in competition with   
 you and me.  
 
@@ -116,60 +116,60 @@ Swift.
 ( 70)  
 
 Swift.  
-BECAUSE they are a pack of a&#017;&#017;es——but  
-do not imagine that all do &#017o————a player  
-that pretends to a ta&#017;te, perhaps, when he  
-has none——or a rabble of fa&#017;hionable people  
-may make a noi&#017e about him——as a mob  
+BECAUSE they are a pack of aſſes——but  
+do not imagine that all do ſo————a player  
+that pretends to a taſte, perhaps, when he  
+has none——or a rabble of faſhionable people  
+may make a noiſe about him——as a mob  
 often will do about nothing--but the few good  
-judges, Mercury a&#017;&#017;ures me, hold his book  
-in the contemptible light it de&#017;erves.  
+judges, Mercury aſſures me, hold his book  
+in the contemptible light it deſerves.  
 
 Fielding.   
-I fancy he owes the &#017ucce&#017;s of it to its  
+I fancy he owes the ſucceſs of it to its  
 not being understood.  
 
 Swift.  
 HE does moft certainly——the majority of  
 the world are ignorant————and ignorance,  
 whatever face it may put upon it outward-  
-ly, is always conscious——the&#017;e, therefore,   
-place to their own account—what &#017;hould be  
+ly, is always conscious——theſe, therefore,   
+place to their own account—what ſhould be  
 put to that of the author——true, they do   
-not understand him——but they never con&#017;ider  
-that he is not to be under&#017tood——in my opi-  
-nion, any man who &#017;hould &#017;it down to  
-write——if, at the &#017;ame time, he was not ab-  
+not understand him——but they never conſider  
+that he is not to be underſtood——in my opi-  
+nion, any man who ſhould ſit down to  
+write——if, at the ſame time, he was not ab-  
 solutely void of what is called the funny   
-&#017;tile, might produce as good a Work——only  
+ſtile, might produce as good a Work——only  
 going  
 
 ( 71 )  
-going upon the &#017;imple principle, of putting  
+going upon theſimple principle, of putting  
 down whatever came into his head.  
 
 Fielding.  
 But it piques my pride a little————that  
-my Tom Jones &#017;hould be cry'd down for &#017;uch  
-an upstart——my Tom Jones that co&#017;t me &#017;o  
+my Tom Jones ſhould be cry'd down for ſuch  
+an upstart——my Tom Jones that coſt me ſo  
 many years labour.  
 
 Swift.  
 FIELDING, this is no place to fear flat-  
-tery——the fable of your Tom Jones, &#017;etting  
-aside its other merits, which are exce&#017;&#017;ive,  
+tery——the fable of your Tom Jones, ſetting  
+aside its other merits, which are exceſive,  
 is enough to put your fame beyond the   
-reach of the contemptible extollers of Tri&#017;-   
+reach of the contemptible extollers of Triſ-   
 tram Shandy.  
 
 Fielding.  
-MR. Dean, I know you &#017;peak what you  
-think——and, becau&#017;e, this is a place where  
-a man cannot be &#017;u&#017;pected of begging a far-  
-ther compliment——I do a&#017;&#017;ure you, by what  
-I can learn——your mo&#017;t trifling pamphlet——  
+MR. Dean, I know you ſpeak what you  
+think——and, becauſe, this is a place where  
+a man cannot be ſſpected of begging a far-  
+ther compliment——I do aſſure you, by what  
+I can learn——your moſt trifling pamphlet——  
 nay, one of your letters to doctor Sheridan,  
-contains more laughable matter than all Tri&#017;-  
+contains more laughable matter than all Triſ-  
 Tram Shandy.  
 
 Swift  
@@ -177,23 +177,23 @@ Swift
 ( 72)   
 
 Swift.  
-I mu&#017;t not &#017;uffer my judgment to be bl-  
-a&#017;&#017;ed, there is a &#017;ermon in Tri&#017;tram Shan-  
-dy; which, to the re&#017;erve of &#017;ome parts of  
-the &#017;tile, is excellent. But it is introduced,   
-in a manner mo&#017;t improper and irreverent.  
+I mu&ſt notſuffer my judgment to be bl-  
+aſſed, there is a ſ;ermon in Triſtram Shan-  
+dy; which, to the reſerve of ſome parts of  
+the ſtile, is excellent. But it is introduced,   
+in a manner moſt improper and irreverent.  
 
 Fielding.   
-I do not think we are to be too &#017;evere   
-in critici&#017;ing works of wit and humour, or   
-in tying up an entertaining author in &#017;uch a manner,  
-as not to &#017;uffer him to break out   
-now and then into a little joco&#017;e merri-  
-ment, though he &#017;hould &#017;ometimes go be-  
+I do not think we are to be too ſevere   
+in criticiſing works of wit and humour, or   
+in tying up an entertaining author in ſuch a manner,  
+as not to ſuffer him to break out   
+now and then into a little jocoſe merri-  
+ment, though he ſhould ſometimes go be-  
 yond even a double entendre. , But an ab-  
-&#017;olute violation of all mode&#017;ty————to take  
+ſolute violation of all modeſty————to take  
 the language of a book from the mouths of  
-the inhabitants of Exeter-&#017;treet, and Hedge  
+the inhabitants of Exeter-ſtreet, and Hedge  
 lane. * * *  *Caetera desunt*.  
 
 

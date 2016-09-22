@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: " A&#46;  D  I  A  L  O  G  U  E   B E T W E E N&#46;  Doctor Swift and HENRY FIELDING&#44; Esq&#59; in the SHADES&#46; from Tristram Shandy&#39;s Bon Mot&#39;s Repartees&#44; odd Adventures&#44; And Humorous Stories&#59; All warrented ORIGINALS&#59; Being taken from ACTUAL CONVERSATIONS&#59; Or collected from the most AUTHENTICK INTELLIGENCE&#44; To which are added&#44; by Way of APPENDIX&#59; A STORY OF A COCK and a BULL&#44; in the SHANDY STILE&#59; A POETICAL EPSITLE&#44; never before printed&#59; A DISCOURSE well worth the Perusal of all who are curious in the SERMON WAY&#59; and a NEW DIALOGUE of the DEAD&#44; between DEAN SWIFT and HENRY FIELDING&#44; esq&#59;"
+title: "Tristram Shandy's Bon Mots"
 author: Anonymous
 publication-date: 1760
 source: "ECCO, Printed for E. Cabe, in Ave-mary-lane, Ludgate-street. M DCC LX"
@@ -10,16 +10,16 @@ source: "ECCO, Printed for E. Cabe, in Ave-mary-lane, Ludgate-street. M DCC LX"
 <a id="title-page" />
 
 <p class="centered large">A<br></p>
+
+<p class="centered larger">D I A L O G U E  &nbsp;&nbsp; B E T W E E N</p>
+
+<p class="centered large">DOCTOR SWIFT and HENRY FIELD-<br>ING, ESQ&#59;</p>
+
+
+<p class="centered" large><em>from</em></p>
 <br>
-<p class="centered larger">D I A L O G U E   B E T W E E N</p>
-
-<p class="centered large">DOCTOR SWIFT and HENRY FIELD-<br>ING, ESQ;<</p>
+<p class="centered">Tristram Shandy&#39;s Bon Mot&#39;s Repartees&#44; odd Adventures&#44; And Humorous Stories&#59; All warrented ORIGINALS&#59; Being taken from ACTUAL CONVERSATIONS&#59; Or collected from the most AUTHENTICK INTELLIGENCE&#44; To which are added&#44; by Way of APPENDIX&#59; A STORY OF A COCK and a BULL&#44; in the SHANDY STILE&#59; A POETICAL EPSITLE&#44; never before printed&#59; A DISCOURSE well worth the Perusal of all who are curious in the SERMON WAY&#59; and a NEW DIALOGUE of the DEAD&#44; between DEAN SWIFT and HENRY FIELDING&#44; esq&#59;</p>
 <br>
-
-<p class="centered" large> <em>from</em></p>
-
-<p class="centered">Tristram Shandy&#39;s Bon Mot&#39;s Repartees&#44; odd Adventures&#44; And Humorous Stories&#59; All warrented ORIGINALS&#59; Being taken from ACTUAL CONVERSATIONS&#59; Or collected from the most AUTHENTICK INTELLIGENCE&#44; To which are added&#44; by Way of APPENDIX&#59; A STORY OF A COCK and a BULL&#44; in the SHANDY STILE&#59; A POETICAL EPSITLE&#44; never before printed&#59; A DISCOURSE well worth the Perusal of all who are curious in the SERMON WAY&#59; and a NEW DIALOGUE of the DEAD&#44; between DEAN SWIFT and HENRY FIELDING&#44; esq&#59;"</p>
-
 <p class="centered small">Printed for E. Cabe, in Ave-mary-lane, Ludgate-street. M DCC LX</p>
 
 ( P66 )
@@ -69,8 +69,8 @@ endure, much less admire such a Paltry per-
 formance.  
 
 Fielding.   
-AT lea&ſt, it is a proof to what a low ebb  
-the British genius is reduced; for it is aſign  
+AT leaſt, it is a proof to what a low ebb  
+the British genius is reduced; for it is a ſign  
 K 2. people  
 
 ( 68 )  
@@ -90,7 +90,7 @@ the moſt ſensible men in the kingdom, and
 one of the greatesſt authors——had fallen a  
 ſleep over the firſt volume, ſo flipt that out  
 of his hand, and the other from the table  
-by him ; but I ſhall be ſurprized if we have  
+by him; but I ſhall be ſurprized if we have  
 them not in plenty before this day twelve-  
 month, for I think Triſram Shandy muſt   
 be dead and buried by that time.  

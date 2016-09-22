@@ -1,11 +1,26 @@
 ---
 layout: narrative
-title: " A&#46;  D  I  A  L  O  G  U  E   B E T W E E N&#46; Doctor Swift and HENRY FIELDING&#44; Esq&#59; in the SHADES&#46; from Tristram Shandy&#39;s Bon Mot&#39;s Repartees&#44; odd Adventures&#44; And Humorous Stories&#59; All warrented ORIGINALS&#59; Being taken from ACTUAL CONVERSATIONS&#59; Or collected from the most AUTHENTICK INTELLIGENCE&#44; To which are added&#44; by Way of APPENDIX&#59; A STORY OF A COCK and a BULL&#44; in the SHANDY STILE&#59; A POETICAL EPSITLE&#44; never before printed&#59; A DISCOURSE well worth the Perusal of all who are curious in the SERMON WAY&#59; and a NEW DIALOGUE of the DEAD&#44; between DEAN SWIFT and HENRY FIELDING&#44; esq&#59;"
+title: " A&#46;  D  I  A  L  O  G  U  E   B E T W E E N&#46;  Doctor Swift and HENRY FIELDING&#44; Esq&#59; in the SHADES&#46; from Tristram Shandy&#39;s Bon Mot&#39;s Repartees&#44; odd Adventures&#44; And Humorous Stories&#59; All warrented ORIGINALS&#59; Being taken from ACTUAL CONVERSATIONS&#59; Or collected from the most AUTHENTICK INTELLIGENCE&#44; To which are added&#44; by Way of APPENDIX&#59; A STORY OF A COCK and a BULL&#44; in the SHANDY STILE&#59; A POETICAL EPSITLE&#44; never before printed&#59; A DISCOURSE well worth the Perusal of all who are curious in the SERMON WAY&#59; and a NEW DIALOGUE of the DEAD&#44; between DEAN SWIFT and HENRY FIELDING&#44; esq&#59;"
 author: Anonymous
 publication-date: 1760
 source: "ECCO, Printed for E. Cabe, in Ave-mary-lane, Ludgate-street. M DCC LX"
 
 ---
+
+<a id="title-page" />
+
+<p class="centered large">A<br></p>
+<br>
+<p class="centered larger">D I A L O G U E   B E T W E E N</p>
+
+<p class="centered large">DOCTOR SWIFT and HENRY FIELD-<br>ING, ESQ;<</p>
+<br>
+
+<p class="centered" large> <em>from</em></p>
+
+<p class="centered">Tristram Shandy&#39;s Bon Mot&#39;s Repartees&#44; odd Adventures&#44; And Humorous Stories&#59; All warrented ORIGINALS&#59; Being taken from ACTUAL CONVERSATIONS&#59; Or collected from the most AUTHENTICK INTELLIGENCE&#44; To which are added&#44; by Way of APPENDIX&#59; A STORY OF A COCK and a BULL&#44; in the SHANDY STILE&#59; A POETICAL EPSITLE&#44; never before printed&#59; A DISCOURSE well worth the Perusal of all who are curious in the SERMON WAY&#59; and a NEW DIALOGUE of the DEAD&#44; between DEAN SWIFT and HENRY FIELDING&#44; esq&#59;"</p>
+
+<p class="centered small">Printed for E. Cabe, in Ave-mary-lane, Ludgate-street. M DCC LX</p>
 
 ( P66 )
 
@@ -178,7 +193,7 @@ Swift
 
 Swift.  
 I mu&ſt notſuffer my judgment to be bl-  
-aſſed, there is a ſ;ermon in Triſtram Shan-  
+aſſed, there is a ſermon in Triſtram Shan-  
 dy; which, to the reſerve of ſome parts of  
 the ſtile, is excellent. But it is introduced,   
 in a manner moſt improper and irreverent.  
